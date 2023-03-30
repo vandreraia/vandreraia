@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **vandreraia/vandreraia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##Hello, and welcome to my github!
+# Hello, and welcome to my github!
 
-#Here you will see many of my projects, most are using HTML/React/Node but i'm always learning new things and technologies
+## Here you will see many of my projects, most are using HTML/React/Node but i'm always learning new things and technologies
 
 I'm currently and fullstack developer but
 right now i'm learning python, because i'm very interested in data science.
