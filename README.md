@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 ## Here you will see many of my projects, most are using HTML/React/Node but i'm always learning new things and technologies
 
-I'm currently and fullstack developer but
-right now i'm learning python, because i'm very interested in data science.
+I'm currently an fullstack developer but right now i'm learning python to explore the data science world!
